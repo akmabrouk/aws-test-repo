@@ -3,5 +3,3 @@ Ansible
 puppet
 =======
 Chef
-======
-Salt
