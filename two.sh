@@ -7,3 +7,5 @@ Chef
 Salt
 ======
 cfengine
+========
+docker
