@@ -5,5 +5,3 @@ puppet
 Chef
 ======
 Salt
-======
-cfengine

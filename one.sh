@@ -5,5 +5,3 @@ nodejs
 python
 =======
 php
-=======
-C++
